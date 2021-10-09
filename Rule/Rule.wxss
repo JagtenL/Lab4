@@ -1,0 +1,19 @@
+.rule{
+  box-sizing: border-box;
+  height: 900rpx;
+  width: 600rpx;
+  top: 200rpx;
+  position: fixed;
+  z-index: 0;
+  display: flex;
+}
+.return{
+  box-sizing: border-box;
+  height: 100rpx;
+  width: 100rpx;
+  top: 35rpx;
+  left: 50rpx;
+  position: fixed;
+  z-index: 3;
+  display: flex;
+}

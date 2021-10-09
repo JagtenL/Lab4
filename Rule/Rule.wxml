@@ -1,0 +1,5 @@
+<view class="container">
+ <image class="background" src="/image/背景图.jpg"></image>
+ <image class="rule" src="/image/规则图.jpg"></image>
+ <image class="return" src="/image/返回.png" bindtap="backHome"></image>
+</view>
