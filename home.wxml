@@ -1,8 +1,0 @@
-
-<view class="container">
- <image class="background" src="/image/背景图.jpg"></image>
- <image class="singlebutton" src="/image/single butt.png" catchtap="toSolobegin"></image>
- <image class="multiplebutton" src="/image/multiple butt.png" catchtap="toMultiplay"></image>
-
-</view>
-
