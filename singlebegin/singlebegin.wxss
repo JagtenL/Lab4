@@ -1,0 +1,23 @@
+/* pages/singlebegin/singlebegin.wxss */
+.gif{
+  box-sizing: border-box;
+  height: 700rpx;
+  width: 700rpx;
+  top: 250rpx;
+  position: fixed;
+  z-index: -1;
+  display: block;
+  border-radius: 360rpx;
+  
+}
+.stop{
+  height: 250rpx;
+  width: 400rpx;
+  top: 1000rpx;
+  font-size: 100rpx;
+  text-align: center;
+  line-height: 180rpx;
+  border-radius: 100rpx;
+  background-color: rgb(86, 140, 221);
+  border: 10px solid white;
+}

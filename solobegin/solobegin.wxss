@@ -1,0 +1,12 @@
+/* pages/solobegin/solobegin.wxss */
+.begin{
+  height: 250rpx;
+  width: 400rpx;
+  top: 400rpx;
+  font-size: 100rpx;
+  text-align: center;
+  line-height: 180rpx;
+  border-radius: 100rpx;
+  background-color: rgb(86, 140, 221);
+  border: 10px solid white;
+}

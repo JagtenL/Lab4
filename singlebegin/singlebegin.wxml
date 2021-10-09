@@ -1,0 +1,6 @@
+<!--pages/singlebegin/singlebegin.wxml-->
+<view class="container">
+ <image class="background" src="/image/背景图2.jpg"></image>
+ <image class="gif" src="/image/bobing.gif"></image>
+ <button class="stop" style="color: white" bindtap="tosinglebegin" bindtap="toresult"  >停止</button>
+</view>

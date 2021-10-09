@@ -1,0 +1,6 @@
+<!--pages/solobegin/solobegin.wxml-->
+<view class="container">
+ <image class="background" src="/image/背景图2.jpg"></image>
+ <button class="begin" style="color: white" bindtap="tosinglebegin"  >开始</button>
+
+</view>
