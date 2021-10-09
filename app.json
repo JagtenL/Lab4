@@ -1,0 +1,40 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/logs/logs",
+    "pages/Rule/Rule",
+    "pages/rank/rank",
+    "pages/solobegin/solobegin",
+    "pages/singlebegin/singlebegin",
+    "pages/results/results",
+    "pages/multibegin/multibegin",
+    "pages/multiplay/multiplay"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "欧宝博饼",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh": true
+    
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "icon/首页.png",
+        "selectedIconPath": "icon/首页 (1).png"
+      },
+      {
+        "pagePath": "pages/Rule/Rule",
+        "text": "规则",
+        "iconPath": "icon/设置规则.png",
+        "selectedIconPath": "icon/合同规则管控.png"
+      }
+      
+    ]
+  },
+  
+  "sitemapLocation": "sitemap.json"
+}
